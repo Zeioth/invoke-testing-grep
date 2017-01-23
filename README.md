@@ -7,6 +7,7 @@ Running
     inv -l | grep meta
     
 Result:
+
     meta.apply_settings          Applies changes in settings.py to all our
     meta.end_stg                 Terminate the stg environment of all
     meta.restart_all_instances   Restart all machines gracefuly, just in case we
@@ -17,6 +18,7 @@ Running
     inv -l | grep -A1 meta
     
 Result:
+
     meta.apply_settings          Applies changes in settings.py to all our
                                  applications and environments.
     meta.end_stg                 Terminate the stg environment of all
