@@ -30,4 +30,4 @@ Result:
 
 Extra tests:
 
-Increasing the number of cols in gnome-terminal doesn't have any effect on this case of use.
+* Increasing the number of cols in gnome-terminal doesn't have any effect on this case of use.
