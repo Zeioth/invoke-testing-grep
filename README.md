@@ -27,3 +27,7 @@ Result:
                                  need it (we shouldn't).
     meta.stop_all_instances      Shutdown all machines gracefuly, so we can
                                  perform critical maintenance.
+
+Extra tests:
+
+Increasing the number of cols in gnome-terminal doesn't have any effect on this case of use.
