@@ -1,6 +1,6 @@
 # invoke-testing-grep
 
-Tested terminals: xfce4-terminal, x-terminal-emulator
+Tested terminals: xfce4-terminal, gnome-terminal, x-terminal-emulator
 
 Running 
 
